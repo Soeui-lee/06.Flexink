@@ -3,9 +3,14 @@ exercise.ipynb
 roadapikey.txt
 kakaoapikey.txt
 chromedriver.exe
-2020.csv
-2021.csv
-ap_acct_210410.csv
+Udo.csv
+Gujeju.csv
+Gujwa.csv
+Jocheon.csv
+Seongsan.csv
+2022_0102.csv
+fixed 1819.csv
+fixed 2020.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
